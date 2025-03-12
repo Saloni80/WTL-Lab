@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<student>
+   <TYA>
+      <Rollno>1</Rollno>
+      <Name>Saloni</Name>
+      <Department>CSE</Department>
+   </TYA>
+   <TYA>
+      <Rollno>2</Rollno>
+      <Name>aditi</Name>
+      <Department>Civil</Department>
+   </TYA>
+   <TYA>
+      <Rollno>3</Rollno>
+      <Name>Aditya</Name>
+      <Department>cse</Department>
+   </TYA>
+</student>
