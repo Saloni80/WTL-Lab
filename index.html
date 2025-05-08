@@ -1,17 +1,14 @@
-
+<!DOCTYPE html>
 <html>
     <head>
-        <style>
-            *{
-                background-color: aliceblue;
-            }
-        </style>
-    <frameset rows="15%,*">
-        <frame src="top.html" name="header"> 
-            <frameset cols="30%,*">
-                <frame name="navF" src="navigation.html">
-                <frame name="mainF" src="regi.html"> 
-            </frameset>
-    </frameset>
+        <title>
+            External Javascript Example 
+        </title>
     </head>
+    <body>
+        <h2>External Javascript example</h2>
+        <p id="demo">Click the Button to see a message.</p>
+        <button onclick="showmessage()">Click on me </button>
+        <script src="script.js"></script>
+    </body>
 </html>
